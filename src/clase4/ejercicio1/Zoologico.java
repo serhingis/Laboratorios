@@ -26,7 +26,7 @@ public class Zoologico {
 	public void cerrar() {
 		
 		if (!estaAbierto()) {
-			System.out.println("ERROR: Zoologico.cerrar() - El Zoo no está abierto");
+			System.out.println("ERROR: Zoologico.cerrar() - El Zoo no estï¿½ abierto");
 			return;
 		}
 		
