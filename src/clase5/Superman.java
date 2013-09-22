@@ -17,11 +17,11 @@ public class Superman extends TransporteAereo implements Volador{
     private String nombre;
 
     public String getNombre() {
-        return "Kent, Clark";
+        return "Clark, Kent";
     }
 
     public void setNombre(String nombre) {
-        this.nombre = "Kent, Clark";
+        this.nombre = "Clark, Kent";
     }
     
     
