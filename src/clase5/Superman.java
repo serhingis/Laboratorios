@@ -17,7 +17,7 @@ public class Superman extends TransporteAereo implements Volador{
     private String nombre;
 
     public String getNombre() {
-        return "Clark, Kent";
+        return "Sergio Fernandez";
     }
 
     public void setNombre(String nombre) {
