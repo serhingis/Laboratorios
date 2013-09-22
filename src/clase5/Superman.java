@@ -10,12 +10,12 @@ package clase5;
  */
 public class Superman extends TransporteAereo implements Volador{
     
+	private String nombre;
+	
     public void aterrizar() {
         System.out.println("Superman.aterrizar()....");
     }
     
-    private String nombre;
-
     public String getNombre() {
         return "Sergio Fernandez";
     }
